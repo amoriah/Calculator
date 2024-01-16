@@ -10,7 +10,7 @@
 
 Работает с несколькими операндами. Не работает с отрицательными числами. 
 
-Как выглядит:
-![info](/png/info.png) ![calc](/png/calculator.png)
+Как выглядит:<br>
+![info](/png/info.png) ![calc](/png/calculator.png)<br>
 
 Проект выполнялся для school 21, перенесен с gitlab.
